@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 <center>
 
-<a><img src="https://github.com/TakshPanchal/TakshPanchal/blob/main/header.png"></a>
+<a><img src="https://github.com/TakshPanchal/TakshPanchal/blob/master/github-metrics.svg"></a>
 
 
 </center>
 
-<img src="https://github.com/TakshPanchal/TakshPanchal/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/TakshPanchal/TakshPanchal/blob/master/github-metrics.svg" alt="Metrics" width="100%">
