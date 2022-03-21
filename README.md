@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ### Hi there 👋
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C++, Python and Machine Learning
+<!-- - 🌱 I’m currently learning C++, Python and Machine Learning
 - <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
 - 💬 Ask me about Computer Vision
 
@@ -30,6 +30,18 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/taksh-panchal-183198195/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
 <a href="mailto:takshtax@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 
-<p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p> -->
 
-</div>
+<!-- </div> --> -->
+
+## Hi there, I'm [Taksh Panchal](https://sauravvmaheshkar.gitbook.io/saurav-maheshkar/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+<center>
+
+<a><img src="https://github.com/TakshPanchal/TakshPanchal/blob/main/header.png"></a>
+
+
+</center>
+
+<img src="https://github.com/TakshPanchal/TakshPanchal/blob/main/github-metrics.svg" alt="Metrics" width="100%">
